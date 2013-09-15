@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dream On]]></title>
-  <link href="http://liulinyang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Programming | Dream On]]></title>
+  <link href="http://liulinyang.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://liulinyang.github.io/"/>
   <updated>2013-09-15T18:38:54+08:00</updated>
   <id>http://liulinyang.github.io/</id>
