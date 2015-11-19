@@ -1,0 +1,11 @@
+.jumbotron {
+	background: white;
+}
+
+.carousel-control.left {
+	background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001) 0%);
+}
+
+.carousel-control.right {
+	background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001) 0%);
+}
